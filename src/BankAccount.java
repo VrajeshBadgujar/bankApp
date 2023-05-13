@@ -1,2 +1,5 @@
-public interface BankAccount {
+public interface BankAccount{
+
+//open account//close account
+
 }
